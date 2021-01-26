@@ -1,0 +1,51 @@
+#form {
+    margin-top: 50px;
+}
+#my-list {
+    width: 60%;
+    margin: 0 auto;
+    margin-top: 50px;
+    padding: 50px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+}
+#my-list .btn {
+    margin-top: 30px;
+}
+
+/* inside bank */
+#inside-bank {
+    width: 70%;
+    margin: 0 auto;
+    display: none;
+    margin-top: 100px;
+}
+
+.box {
+    padding: 30px;
+    color: #fff;
+    border-radius: 10px;
+}
+
+.diposite {
+    background: tomato;
+}
+
+.withdraw {
+    background: lightsalmon;
+}
+
+.balance {
+    background: black;
+}
+
+.stripe {
+    padding-top: 100px;
+}
+
+.stripe .stripe-inside {
+    margin: 30px;
+    padding: 50px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+}
